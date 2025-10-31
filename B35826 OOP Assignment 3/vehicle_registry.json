@@ -1,0 +1,26 @@
+{
+  "total_vehicles": 3,
+  "vehicles": [
+    {
+      "plate_number": "UAA111A",
+      "owner": "Maria",
+      "engine_cc": 1800,
+      "base_tax": 120000,
+      "passenger_capacity": 7
+    },
+    {
+      "plate_number": "UAA222B",
+      "owner": "Logistics Co",
+      "engine_cc": 8000,
+      "base_tax": 400000,
+      "load_capacity": 25.0
+    },
+    {
+      "plate_number": "UAA333C",
+      "owner": "David",
+      "engine_cc": 125,
+      "base_tax": 45000,
+      "bike_type": "private"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Azawi",
+    "song": "My Year",
+    "popular": 85,
+    "plays": 1000000
+  },
+  {
+    "artist": "Azawi",
+    "song": "Repeat It",
+    "popular": 78,
+    "plays": 850000
+  },
+  {
+    "artist": "Sheebah",
+    "song": "Nakyuka",
+    "popular": 88,
+    "plays": 1200000
+  },
+  {
+    "artist": "Sheebah",
+    "song": "Boy Fire",
+    "popular": 80,
+    "plays": 950000
+  }
+]

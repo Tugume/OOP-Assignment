@@ -1,0 +1,29 @@
+[
+  {
+    "id": "s1",
+    "name": "john",
+    "marks": {
+      "math": 85,
+      "english": 72
+    },
+    "type": "student"
+  },
+  {
+    "id": "p1",
+    "name": "alice",
+    "marks": {
+      "research": 88,
+      "thesis": 79
+    },
+    "type": "postgrad",
+    "research": "machine learning"
+  },
+  {
+    "id": "s2",
+    "name": "bob",
+    "marks": {
+      "science": 65
+    },
+    "type": "student"
+  }
+]
